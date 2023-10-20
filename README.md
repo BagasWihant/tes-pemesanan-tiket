@@ -15,3 +15,6 @@
   <li>Tailwind</li>
   <li>Mysql</li>
 </ul>
+
+###Notes
+Di db seeder sudah saya berikan untuk user admin
